@@ -1,7 +1,7 @@
 {
   "name": "two-minute-billing",
   "displayName": "Two Minute Billing",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Add subscription, one-time, usage-based and AI billing to an application with Two Minute Billing: pricing as code, checkout and portal, webhooks, usage metering, test-mode verification and go-live.",
   "author": {
     "name": "Two Minute Billing",
