@@ -1,0 +1,20 @@
+{
+  "name": "two-minute-billing",
+  "displayName": "Two Minute Billing",
+  "version": "0.2.0",
+  "description": "Add subscription, one-time, usage-based and AI billing to an application with Two Minute Billing: pricing as code, checkout and portal, webhooks, usage metering, test-mode verification and go-live.",
+  "author": {
+    "name": "Two Minute Billing",
+    "url": "https://twominutebilling.com"
+  },
+  "homepage": "https://twominutebilling.com/help/developers",
+  "repository": "https://github.com/gox-ai/two-minute-billing-skills",
+  "license": "MIT",
+  "keywords": [
+    "billing",
+    "subscriptions",
+    "usage-based-billing",
+    "payments",
+    "agent-skills"
+  ]
+}
