@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.4 — 2026-11-25
+
+- Agent Skills from Two Minute Billing v0.2.4: `two-minute-billing`, `two-minute-billing-go-live`, `two-minute-billing-integrate`, `two-minute-billing-pricing`, `two-minute-billing-usage`, `two-minute-billing-verify`.
+
 ## 0.2.3 — 2026-11-23
 
 - Agent Skills from Two Minute Billing v0.2.3: `two-minute-billing`, `two-minute-billing-go-live`, `two-minute-billing-integrate`, `two-minute-billing-pricing`, `two-minute-billing-usage`, `two-minute-billing-verify`.
